@@ -18,5 +18,8 @@ export const style = extendTheme({
             'pink': '#f57dff',
             'blue': '#57cbff'
         }
+    },
+    fonts: {
+        body: '"Farro", sans-serif',
     }
 })
